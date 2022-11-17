@@ -1,0 +1,10 @@
+black
+mypy
+numpy
+scikit-learn
+scikit-image
+matplotlib
+ipyplot
+sklearn-som
+fuzzy-c-means
+scikit-learn-extra
